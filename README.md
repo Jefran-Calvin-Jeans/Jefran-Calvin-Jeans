@@ -1,6 +1,6 @@
 # Hi there, I'm Calvin, Its so nice to see you visit my Github page!
 
-I havw graduated with Masters in Aerospace Engineering from the University of Florida with a passion for propulsion systems, thermal-fluid dynamics, and advanced design optimization. I combine hands-on engineering experience with computational analysis to solve complex aerospace challenges.
+I graduated with a Masters in Aerospace Engineering from the University of Florida with a passion for propulsion systems, thermal-fluid dynamics, and advanced design optimization. I combine hands-on engineering experience with computational analysis to solve complex aerospace challenges.
 
 ## Technical Expertise
 
