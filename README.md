@@ -83,4 +83,4 @@ CGPA: 9.36/10
 
 ---
 
-💡 *Currently exploring: Advanced propulsion systems, thermal management solutions, and design optimization techniques*
+💡 *Currently exploring: Advanced propulsion systems, thermal management solutions, and computational analysis techniques*
