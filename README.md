@@ -62,10 +62,6 @@ Payload recovery system for atmospheric data collection at 30,000m
 - Analyzed UV radiation, geomagnetic fields, and cosmic ray measurements
 - Designed nichrome burn-wire recovery mechanism for controlled descent
 
-## GitHub Stats
-
-![Jefran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefran-Calvin-Jeans&show_icons=true&theme=tokyonight)
-
 ## Publications
 
 **Design and development of 10N solid rocket thruster**  
